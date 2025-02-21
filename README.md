@@ -37,8 +37,8 @@
 
 ## 📌 Repositórios em Destaque
 
-📌 **[Nome do Projeto 1]([https://github.com/seu-usuario/projeto1](https://github.com/SkyGreens/SkyGreens))** 
-📌 **[Nome do Projeto 2]([https://github.com/seu-usuario/projeto2](https://github.com/GuLuiz/to-do-list-test))**
+📌 **[Skygreen]([https://github.com/seu-usuario/projeto1](https://github.com/SkyGreens/SkyGreens))** 
+📌 **[To do List]([https://github.com/seu-usuario/projeto2](https://github.com/GuLuiz/to-do-list-test))**
 
 ---
 
