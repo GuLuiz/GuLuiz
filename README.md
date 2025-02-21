@@ -1,22 +1,58 @@
-# 👋 Olá, eu sou Gustavo Luiz!
+<h1 align="center">🚀 Olá, eu sou [Seu Nome]!</h1>
+<h3 align="center">Desenvolvedor Fullstack | Java | Angular | Spring Boot</h3>
 
-Sou um desenvolvedor **Fullstack** com formação em **Análise e Desenvolvimento de Sistemas (ADS)**, atuando principalmente com **Java** e **Angular**. Tenho experiência no desenvolvimento de aplicações escaláveis e performáticas, utilizando as melhores práticas do mercado.
-
-## 🚀 Tecnologias e Ferramentas
-
-- 🔹 **Back-end**: Java, Spring Boot  
-- 🔹 **Front-end**: Angular, HTML, CSS  
-- 🔹 **Banco de Dados**: PostgreSQL, H2 Database  
-- 🔹 **DevOps**: Docker  
-- 🔹 **Outros**: Git, API Rest, TypeScript  
-
-## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuLuiz&show_icons=true&theme=radical)
-
-## 📫 Como me encontrar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/gustavo-luiz-605a56225/))  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/GuLuiz))
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GuLuiz&label=Profile+Views&color=blue&style=flat" alt="Visualizações do Perfil" />
+</p>
 
 ---
 
-Sempre em busca de aprendizado e novas oportunidades! 🚀
+## 🛠️ Tecnologias & Ferramentas
+
+### 🚀 Back-End
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2%20Database-007ACC?style=for-the-badge&logo=h2&logoColor=white)
+
+### 🎨 Front-End
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuLuiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuLuiz&theme=radical"/>
+</div>
+
+---
+
+## 📌 Repositórios em Destaque
+
+📌 **[Nome do Projeto 1]([https://github.com/seu-usuario/projeto1](https://github.com/SkyGreens/SkyGreens))** 
+📌 **[Nome do Projeto 2]([https://github.com/seu-usuario/projeto2](https://github.com/GuLuiz/to-do-list-test))**
+
+---
+
+## 📫 Como me encontrar?
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/gustavo-luiz-605a56225/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</p>
+
+---
+
+🌱 Sempre aprendendo e evoluindo! Vamos construir algo incrível juntos! 🚀
