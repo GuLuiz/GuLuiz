@@ -11,7 +11,7 @@ Sou um desenvolvedor **Fullstack** com formação em **Análise e Desenvolviment
 - 🔹 **Outros**: Git, API Rest, TypeScript  
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuLuiz&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/gustavo-luiz-605a56225/))  
