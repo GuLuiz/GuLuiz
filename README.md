@@ -49,7 +49,7 @@
   <a href="[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/gustavo-luiz-605a56225/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:gustaluizgonc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
