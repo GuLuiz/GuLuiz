@@ -37,8 +37,9 @@
 
 ## 📌 Repositórios em Destaque
 
-📌 **[SkyGreen](https://github.com/SkyGreens/SkyGreens)**  
-📌 **[To-do List](https://github.com/GuLuiz/to-do-list-test)**
+📌 **[SkyGreen](https://github.com/SkyGreens/SkyGreens)** - Sistema para gerenciamento de fazendas urbanas, otimizando o cultivo por meio de tecnologia. 🚜🌱  
+
+📌 **[To-do List](https://github.com/GuLuiz/to-do-list-test)** - Aplicação simples de lista de tarefas, permitindo adicionar, remover e marcar tarefas como concluídas. ✅📝  
 
 ---
 
