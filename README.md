@@ -37,8 +37,8 @@
 
 ## 📌 Repositórios em Destaque
 
-📌 **[Skygreen]([https://github.com/seu-usuario/projeto1](https://github.com/SkyGreens/SkyGreens))** 
-📌 **[To do List]([https://github.com/seu-usuario/projeto2](https://github.com/GuLuiz/to-do-list-test))**
+📌 **[SkyGreen](https://github.com/SkyGreens/SkyGreens)**  
+📌 **[To-do List](https://github.com/GuLuiz/to-do-list-test)**
 
 ---
 
