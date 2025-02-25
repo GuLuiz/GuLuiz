@@ -1,4 +1,4 @@
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=GuLuiz&theme=radical"/>
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h1 align="center">🚀 Olá, eu sou o Gustavo Luiz!</h1>
 <h3 align="center">Desenvolvedor Fullstack | Java | Angular | Spring Boot</h3>
@@ -32,7 +32,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuLuiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 </div>
 
 ---
