@@ -1,6 +1,11 @@
 <h1 align="center">🚀 Olá, eu sou o Gustavo Luiz!</h1>
 <h3 align="center">Desenvolvedor Fullstack | Java | Angular | Spring Boot</h3>
 
+### 👋 Sobre mim
+💡 Sou um desenvolvedor apaixonado por tecnologia e inovação! Trabalho principalmente com **Java**, **Spring Boot**, **Angular**, e **SQL Server**.  
+🔭 Atualmente, estou desenvolvendo a plataforma **SkyGreen** 🌱  
+📚 Sempre aprendendo coisas novas e explorando novas tecnologias! 🚀
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuLuiz&label=Profile+Views&color=blue&style=flat" alt="Visualizações do Perfil" />
 </p>
