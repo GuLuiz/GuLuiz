@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Olá, eu sou o Gustavo Luiz!</h1>
+<h1 align="center">Gustavo Luiz!</h1>
 <h3 align="center">Desenvolvedor Fullstack | Java | Angular | Spring Boot</h3>
 
 ### 👾 Sobre mim
