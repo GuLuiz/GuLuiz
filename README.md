@@ -1,4 +1,6 @@
- <div><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=GuLuiz&theme=radical"/></div>
+ <div>
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+ </div>
 
 <h1 align="center">🚀 Olá, eu sou o Gustavo Luiz!</h1>
 <h3 align="center">Desenvolvedor Fullstack | Java | Angular | Spring Boot</h3>
